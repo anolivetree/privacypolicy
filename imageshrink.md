@@ -1,6 +1,6 @@
 # Privacy Policy
 
-OliveLab, the creator of Image Shrink and Image Shrink Lite, respects the privacy of our users and makes every effort to protect their personal information. This privacy policy explains how we collect and use personal information in connection with our apps.
+Olive Labs, the creator of Image Shrink and Image Shrink Lite, respects the privacy of our users and makes every effort to protect their personal information. This privacy policy explains how we collect and use personal information in connection with our apps.
 
 # Information Collected
 Our apps do not collect any personal information from users, and we do not transmit any data to external servers. All photos, settings, and usage data are stored exclusively on the user's device. Therefore, we do not collect or store any personal information about our users.
